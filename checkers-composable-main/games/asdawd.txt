@@ -1,0 +1,3 @@
+RUN b
+w | 3a:p 3c:p 3g:p 2b:p 2d:p 2f:p 2h:p 1a:p 1c:p 1e:p 1g:p 4d:p
+b | 8b:p 8d:p 8f:p 8h:p 7a:p 7c:p 7e:p 7g:p 6b:p 6d:p 6f:p 6h:p
